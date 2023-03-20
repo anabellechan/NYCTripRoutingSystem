@@ -10,7 +10,7 @@ The folder in this repository called New York City Bus Data has the python jupyt
 coordinates, trip and fullnycdata. the full data is split into their respective trips, which refers to origin->destination = 1 trip, and a column for the no. of trips.
 These trips' coordinates are stored in the coordinates table with coordinatesid as the PK.
 The following are a snippet of the table and its columns.  
-  Full Table: 
+    Full Table:   
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/97331839/226262153-fe8b2556-0e7c-42b0-9bf2-e074e03ed628.png">
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/97331839/226262219-2c66b830-4474-493e-810f-72f99a737e6e.png">
 
